@@ -1,0 +1,16 @@
+{
+    "name": "taliakart",
+    "version": "1.0.1",
+    "main": "script.js",
+    "scripts": {
+        "build-css": "stylus src/cards.styl -o dist/cards.css",
+        "watch-css": "stylus -w src/cards.styl -o dist/cards.css"
+    },
+    "keywords": [],
+    "author": "Maks J",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "stylus": "^0.63.0"
+    }
+}
