@@ -4,3 +4,4 @@
 `npm i`<br>
 `tsc`<br>
 `npm run build-css`
+create the dist folder 
